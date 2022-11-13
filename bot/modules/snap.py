@@ -13,7 +13,7 @@ base_url = "https://story.snapchat.com/@"
 
 START_TEXT = """Hello {} ✨
 
-Send me Snapchat username to get Public Stories 👻.
+Send me Snapchat username to get Public Stories hhhhhhhhh👻.
 """
 
 
